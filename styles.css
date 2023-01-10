@@ -1,0 +1,41 @@
+
+a:link, a:visited {
+  background-color:  white;
+  color: black;
+  border: 2px DimGray ;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: Gray ;
+  color:  white;
+}
+body{
+    background-image: url('coffee-house-img.jpg');
+    background-size:100%;
+    padding: 30px;
+     text-align: center;
+}
+h1 {
+  color: white;
+ text-shadow: 6px 1px 2px black, 0 0 40px black, 0 0 8px DimGrey;
+   letter-spacing: 8px;
+    text-transform: uppercase;
+      text-decoration: underline ;
+       font-weight: 900;
+        font-size: 40px;
+}
+h2{
+  color: white;
+   text-shadow: 6px 2px 2px black,0 0 50px black;
+    font-size: 30px;
+}
+h3{
+  color: white;
+  font-size: 20px;
+   text-shadow: 6px 2px 2px black,0 0 50px black;
+
+}

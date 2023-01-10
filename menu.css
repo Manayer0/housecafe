@@ -1,0 +1,35 @@
+a:link, a:visited {
+  background-color:  white;
+  color: black;
+  border: 2px DimGray ;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: Gray ;
+  color:  white;
+}
+body{
+    background-image: url('menu0-img.jpg');
+    background-size:100%;
+    padding: 30px;
+     text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+ td{
+  padding: 7px;
+  text-align: left;
+  border-bottom: 1px solid white;
+}
+th{
+ padding: 7px;
+ text-align: left;
+ border-bottom: 1px solid white;
+}
